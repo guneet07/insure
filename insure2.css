@@ -442,7 +442,8 @@ ul:hover{
     right: 10px;
     font-family: FontAwesome;
     font-size: 45px;
-    color: #0000;
+    color: #000;
+    opacity:0.4;
   }
   .flex3{
     display: flex;
